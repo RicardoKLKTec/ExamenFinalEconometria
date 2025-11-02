@@ -1,0 +1,2 @@
+GitHub: https://github.com/RicardoKLKTec/ExamenFinalEconometria
+Colab: https://colab.research.google.com/drive/1VkaeF7Hwgcbrl6fEMFh4mTuBeya01rNW?usp=sharing
